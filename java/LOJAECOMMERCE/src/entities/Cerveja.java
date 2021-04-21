@@ -14,6 +14,6 @@ public class Cerveja extends Produto {
 	}
 
 	/*public void setMarca(String marca) {
-		this.marca = marca;
+		this.marca = marca da cerveja;
 	}*/
 }
